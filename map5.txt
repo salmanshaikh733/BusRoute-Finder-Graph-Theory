@@ -1,0 +1,18 @@
+40 10 9 2
+Sa.a.a.a.c.c.c.c.c.
+a   a   a c c   c c
+.a.a.a.a. .c.c.c.c.
+    d   a c   c    
+.d.d.d. .c.c.c.c. .
+d     d a   c   c  
+.d.d.d. .a. .c.c.c.
+e       a a   c   c
+.e.e.e. .a.a.b.b.b.
+e e   e   a a   b b
+.e.e.e.f. .a.b.b.b.
+e e   f f         b
+.e. .f.f.f.f.f.f.b.
+f   f f   f   f   b
+.f.f.f.f.f. .f. .b.
+f f     f   f   b b
+.f.f.f.fDf.f. .b.b.
